@@ -9,7 +9,7 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     
     await message.reply_text(
-        f"""**🏷️ Hᴇʏ, ɪ ᴀᴍ [ᴘᴀᴠᴀɴ'ᴢ ᴘʟᴀʏᴇʀ](https://telegra.ph/file/89d4135199d1d2a98596e.jpg).
+        f"""**🏷️ Hᴇʏ, ɪ ᴀᴍ [𝗠𝘂𝘀𝗶𝗰 𝗡𝗲𝘅𝘁 😎](https://telegra.ph/file/89d4135199d1d2a98596e.jpg).
 ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ sᴜᴘᴇʀ
 ғᴀsᴛ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴍᴜsɪᴄ
 ᴘʟᴀʏᴇʀ ʙᴏᴛ..!
