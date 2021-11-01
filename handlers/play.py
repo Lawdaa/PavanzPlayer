@@ -152,7 +152,7 @@ async def play(_, message: Message):
                 [
          
                         InlineKeyboardButton(
-                            text="𝗢𝘄𝗻𝗲𝗿 😎",
+                            text="𝗖𝗿𝗲𝗮𝘁𝗼𝗿 😎",
                             url=f"https://t.me/Pavanmagar")
                    
                 ]
@@ -191,7 +191,7 @@ async def play(_, message: Message):
                     [
                         
                         InlineKeyboardButton(
-                            text="𝗢𝘄𝗻𝗲𝗿 😎",
+                            text="𝗖𝗿𝗲𝗮𝘁𝗼𝗿 😎",
                             url=f"https://t.me/Pavanmagar")
 
                     ]
@@ -207,7 +207,7 @@ async def play(_, message: Message):
                         [
                             
                         InlineKeyboardButton(
-                            text="𝗢𝘄𝗻𝗲𝗿 😎",
+                            text="𝗖𝗿𝗲𝗮𝘁𝗼𝗿 😎",
                             url=f"https://t.me/Pavanmagar")
 
                         ]
@@ -258,7 +258,7 @@ async def play(_, message: Message):
                     [
                       
                         InlineKeyboardButton(
-                            text="𝗢𝘄𝗻𝗲𝗿 😎",
+                            text="𝗖𝗿𝗲𝗮𝘁𝗼𝗿 😎",
                             url=f"https://t.me/Pavanmagar")
                     ]
                 ]
@@ -275,7 +275,7 @@ async def play(_, message: Message):
         position = await queues.put(message.chat.id, file=file_path)
         await message.reply_photo(
         photo="final.png", 
-        caption="**🏷️ 𝗡𝗲𝘅𝘁 𝗦𝗼𝗻𝗴 𝗕𝘆 💪 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗣𝗮𝘃𝗮𝗻 😎 𝗔𝘁 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻 ❤️** {}".format(
+        caption="**🏷️ 𝗡𝗲𝘅𝘁 𝗦𝗼𝗻𝗴 𝗙𝗿𝗼𝗺 💪 𝗠𝘆 𝗦𝗲𝗿𝘃𝗲𝗿 😎 𝗔𝘁 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻 ❤️** {}".format(
         position
         ),
         reply_markup=keyboard)
@@ -286,7 +286,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="**🏷️ 𝗬𝗼𝘂𝗿 𝗦𝗼𝗻𝗴 🤟❤️ 𝗶𝘀 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 𝗕𝘆 💪 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗣𝗮𝘃𝗮𝗻 😎 𝗔𝘁 𝗨𝗿 𝗚𝗿𝗼𝘂𝗽 `{}`...**".format(
+        caption="**🏷️ 𝗬𝗼𝘂𝗿 𝗛𝗶𝗴𝗵 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 🤟 𝗦𝗼𝗻𝗴 ❤️ 𝗶𝘀 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 😎 𝗶𝗻 𝗨𝗿 𝗦𝘂𝗽𝗲𝗿𝗚𝗿𝗼𝘂𝗽 `{}`...**".format(
         message.chat.title
         ), )
         os.remove("final.png")
