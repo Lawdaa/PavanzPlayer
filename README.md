@@ -1,6 +1,6 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://telegra.ph/file/89d4135199d1d2a98596e.jpg"></a></p>
 <p align="center">
-    <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>Pavanz Player is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
@@ -21,11 +21,11 @@
 
 ### 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@HEXOROP/eSportMusic) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@crepan07/Creator-Pavan) ``Pyrogram``
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/HEXOROP/eSportMusicX)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/creatorPavan/PavanzPlayer)
 
 ## Features 🔮
 
@@ -42,7 +42,7 @@
 
 - `/play <song name>` - play song you requested
 - `/song <song name>` - download songs you want quickly
-- `/hexor` - Bot Online OR Offine
+- `/reload` - Bot Online OR Offine
 
 #### Admins Only 👷‍♂️
 - `/pause` - pause song play
@@ -55,27 +55,11 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/creatorPavan/PavanzPlayer)
 
-## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
-
-```sh
-sudo apt update && apt upgrade -y
-sudo apt install git curl python3-pip ffmpeg -y
-pip3 install -U pip
-curl -sL https://deb.nodesource.com/setup_16.x | bash -
-sudo apt-get install -y nodejs
-npm i -g npm
-git clone https://github.com/HEXOROP/eSportMusicX # Clone your repo.
-cd eSportMusicX
-pip3 install -U -r requirements.txt
-cp example.env .env #Use vim to edit ENVs
-vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
-python3 main.py # Run the bot
-```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
+- [Creator Pavan](https://t.me/Pavanmagar): Developer
+- [eSport Music Bot](https://t.me/eSport_BOTs) Main Source
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Pavanmagar"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Pavanmagar"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
